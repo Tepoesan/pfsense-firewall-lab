@@ -63,6 +63,7 @@ The laboratory will initially operate offline using an isolated internal network
 
 | Stage | Documentation | Status |
 |---|---|---|
+| 00 | [Repository security](docs/00-repository-security.md) | In progress |
 | 01 | [Environment setup](docs/01-environment-setup.md) | VM created; installation pending |
 | 02 | [Network configuration](docs/02-network-configuration.md) | Virtual adapters configured; runtime validation pending |
 | 03 | [VirtualBox hardening](docs/03-virtualbox-hardening.md) | In progress |
