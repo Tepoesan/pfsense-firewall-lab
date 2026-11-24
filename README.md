@@ -62,7 +62,7 @@ The laboratory will initially operate offline using an isolated internal network
 
 - [x] Create GitHub repository.
 - [x] Install Oracle VirtualBox.
-- [ ] Create pfSense virtual machine.
+- [x] Create pfSense virtual machine.
 - [ ] Install and configure pfSense.
 - [ ] Configure the internal network.
 - [ ] Create a Linux client virtual machine.
