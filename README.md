@@ -59,6 +59,16 @@ The laboratory will initially operate offline using an isolated internal network
 - Document configuration changes and test results.
 
 
+## Lab Documentation
+
+| Stage | Documentation | Status |
+|---|---|---|
+| 01 | [Environment setup](docs/01-environment-setup.md) | VM created; installation pending |
+| 02 | [Network configuration](docs/02-network-configuration.md) | Virtual adapters configured; runtime validation pending |
+| 03 | [VirtualBox hardening](docs/03-virtualbox-hardening.md) | In progress |
+
+Further documentation will be added as each stage is performed and validated. Sensitive artifacts must be reviewed before publication; `.gitignore` is a safeguard, not a guarantee.
+
 ## Official Documentation
 
 - [Oracle VirtualBox — Virtual Networking](https://docs.oracle.com/en/virtualization/virtualbox/7.2/user/networkingdetails.html): NAT, internal networking, and port forwarding.
