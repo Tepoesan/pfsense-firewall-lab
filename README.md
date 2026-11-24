@@ -58,6 +58,14 @@ The laboratory will initially operate offline using an isolated internal network
 - Perform security tests only on authorized laboratory systems.
 - Document configuration changes and test results.
 
+
+## Official Documentation
+
+- [Oracle VirtualBox — Virtual Networking](https://docs.oracle.com/en/virtualization/virtualbox/7.2/user/networkingdetails.html): NAT, internal networking, and port forwarding.
+- [Oracle VirtualBox — Security Guide](https://docs.oracle.com/en/virtualization/virtualbox/7.2/user/Security.html): secure virtual machine configuration and isolation.
+- [Netgate — pfSense Documentation](https://docs.netgate.com/pfsense/en/latest/): firewall configuration and network administration.
+- [Netgate — Installing and Upgrading](https://docs.netgate.com/pfsense/en/latest/install/index.html): official installation and update procedures.
+
 ##  Learning Progress
 
 - [x] Create GitHub repository.
