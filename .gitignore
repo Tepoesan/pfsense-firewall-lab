@@ -1,0 +1,24 @@
+# Virtual machine disks, state and installation media
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.sav
+*.iso
+*.ova
+*.ovf
+*.vbox
+*.vbox-prev
+Snapshots/
+# Sensitive configuration and credentials
+config.xml
+config-*.xml
+*.pem
+*.key
+.env
+.env.*
+# Raw logs and captures
+*.log
+*.pcap
+*.pcapng
+private/
